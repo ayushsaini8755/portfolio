@@ -84,6 +84,20 @@ nav a:hover {
     border-radius: 10px;
     transition: 0.3s;
 }
+.card1 {
+    background: #1e293b;
+    padding: 20px;
+    width: 323px;
+    height: 150px;
+    border-radius: 10px;
+    transition: 0.3s;
+    margin-left: 125px;
+    margin-top: -40px;
+}
+.card:hover {
+    transform: translateY(-5px);
+    background: #334155;
+}
 
 .card:hover {
     transform: translateY(-5px);
