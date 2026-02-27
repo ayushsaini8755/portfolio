@@ -116,6 +116,10 @@ footer {
     color: #38bdf8;
     text-decoration: none;
 }
+.two {
+    color: white;
+    text-decoration-line: none;
+}
 
 /* Mobile */
 @media(max-width: 768px){
