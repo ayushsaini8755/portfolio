@@ -80,6 +80,7 @@ nav a:hover {
 
 .card {
     background: #1e293b;
+    height: 150px;
     padding: 20px;
     border-radius: 10px;
     transition: 0.3s;
@@ -128,6 +129,6 @@ footer {
     }
     .chain {
         margin-left: 48px;
-        width: auto;
+        width: 80%;
     }
 }
