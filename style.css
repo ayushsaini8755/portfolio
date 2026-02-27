@@ -123,6 +123,7 @@ footer {
         font-size: 28px;
     }
     .chain {
-        margin-left: 50px;
+        margin-left: 48px;
+        width: auto;
     }
 }
