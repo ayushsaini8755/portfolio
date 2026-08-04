@@ -85,20 +85,6 @@ nav a:hover {
     border-radius: 10px;
     transition: 0.3s;
 }
-.chain {
-    background: #1e293b;
-    padding: 20px;
-    width: 323px;
-    height: 150px;
-    border-radius: 10px;
-    transition: 0.3s;
-    margin-left: 125px;
-    margin-top: -40px;
-}
-.chain:hover{
-    transform: translateY(-5px);
-    background: #334155;
-}
 
 .card:hover {
     transform: translateY(-5px);
@@ -126,9 +112,5 @@ footer {
 @media(max-width: 480px){
     .hero h2 {
         font-size: 28px;
-    }
-    .chain {
-        margin-left: 42px;
-        width: 335px;
     }
 }
